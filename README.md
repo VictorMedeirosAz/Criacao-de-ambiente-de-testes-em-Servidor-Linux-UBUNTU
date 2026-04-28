@@ -26,11 +26,6 @@ Em vez de usar senhas comuns (bloqueadas pelo GitHub para terminais), configurei
 2. **Geração de Chave:** `ssh-keygen -t ed25519`.
 3. **Autenticação:** Chave pública adicionada ao perfil do GitHub para permitir `git push` sem senha.
 
-## 🧠 Notas Pessoais (TDAH Friendly)
-* **Por que o IP Fixo?** Menos fricção. Não preciso caçar o IP toda vez que ligar o servidor.
-* **Por que o SSH?** Segurança e agilidade. O terminal do Windows se comunica direto com o Linux.
-* **Próximos Passos:** Instalar o ambiente .NET e MySQL.
-
 ---
 *Atualizado em: 2026-04-28*# Criacao-de-ambiente-de-testes-em-Servidor-Linux-UBUNTO
 Utilização de um Hardware antigo para aprofundar meus estudos sobre a utilização, administração e gerenciamento de um Servidor Ubunto Linux. 
