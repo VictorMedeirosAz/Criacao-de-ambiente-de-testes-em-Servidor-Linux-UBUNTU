@@ -2,7 +2,7 @@
 
 Este repositório documenta a ressurreição de um hardware antigo para fins de estudo em Sistemas de Informação, focando em Linux, Redes e Desenvolvimento.
 
-## 💻 1. O Hardware (The Vintage Beast)
+## 💻 1. O Hardware (Note Antigo)
 * **Modelo:** Acer Aspire 5920 (Aprox. 12 anos de idade).
 * **Objetivo:** Servidor dedicado para testes de banco de dados (MySQL) e lógica em C#.
 * **Sistema Operacional:** Ubuntu Server (Sem interface gráfica para máxima performance).
