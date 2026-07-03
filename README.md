@@ -26,8 +26,7 @@ Em vez de usar senhas comuns (bloqueadas pelo GitHub para terminais), configurei
 2. **Geração de Chave:** `ssh-keygen -t ed25519`.
 3. **Autenticação:** Chave pública adicionada ao perfil do GitHub para permitir `git push` sem senha.
 
-<<<<<<< HEAD
-## 🧠 Notas Pessoais (TDAH Friendly)
+## 🧠 Notas Pessoais
 * **Por que o IP Fixo?** Menos fricção. Não preciso caçar o IP toda vez que ligar o servidor.
 * **Por que o SSH?** Segurança e agilidade. O terminal do Windows se comunica direto com o Linux.
 * **Próximos Passos:** Instalar o ambiente .NET e MySQL.
